@@ -1,0 +1,186 @@
+img {
+    height: 95px;
+    border: 2px solid black;
+
+}
+
+#navigation {
+    display: flex;
+    flex-direction: row;
+    margin: 1px 10px;
+}
+
+#navigationul {
+    display: flex;
+    flex-direction: row;
+    margin: 1px 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 800px;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba(10, 10, 12, 0.823);
+    height: 95px;
+
+}
+
+.navigation {
+    display: flex;
+    margin-left: 80px;
+    bottom: 590px;
+    position: absolute;
+    height: 88px;
+    /* background-color:cornflowerblue; */
+}
+
+section {
+    background-image: url('https://img.freepik.com/premium-photo/clay-dishes-plate-top-view-free-space-your-text_187166-14624.jpg?size=626&ext=jpg');
+    color: whitesmoke;
+    height: 600px;
+    position: absolute;
+
+}
+
+section p {
+    color: yellow;
+}
+
+section h1 {
+    color: yellowgreen
+}
+
+#fp{
+    display:flex;
+    justify-content: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+a:hover {
+    color: greenyellow;
+}
+
+.Home {
+    background-image: url('https://img.freepik.com/premium-photo/clay-dishes-plate-top-view-free-space-your-text_187166-14624.jpg?size=626&ext=jpg');
+    /* background-color: rgba(14, 10, 10, 0.763); */
+    color: whitesmoke;
+}
+
+.Home p {
+    font-size: 18px;
+    color: pink;
+}
+
+#first_item {
+    color: white;
+    font-size: 24px;
+}
+
+#second_item {
+    color: white;
+    font-size: 24px;
+}
+
+#third_item {
+    color: white;
+    font-size: 24px;
+}
+
+#Menu {
+    display: flex;
+    color: rgb(0, 255, 255);
+    justify-content: center;
+    font-size: 44px;
+}
+
+.p1 {
+    display: flex;
+    font-size: 44px;
+    color: aqua;
+    justify-content: center;
+}
+
+.services {
+    /* background-color: rgba(45, 43, 43, 0.899); */
+    background-image: url('https://img.freepik.com/premium-photo/clay-dishes-plate-top-view-free-space-your-text_187166-14624.jpg?size=626&ext=jpg');
+    height: 500px;
+    position: absolute;
+    margin-bottom: 50px;
+}
+
+.services p {
+    color: yellow
+}
+
+#head2 {
+    color: yellowgreen
+}
+
+#head3 {
+    color: yellowgreen
+}
+
+#head4 {
+    color: yellowgreen
+}
+
+.services h1 {
+    color: yellowgreen;
+    display: flex;
+    justify-content: center;
+}
+
+#bold {
+    font-size: 44px;
+    color: whitesmoke;
+}
+
+.about1 {
+    background-image: url('https://img.freepik.com/premium-photo/clay-dishes-plate-top-view-free-space-your-text_187166-14624.jpg?size=626&ext=jpg');
+    height: 900px;
+    margin: auto;
+    position: absolute;
+    margin-bottom: 24px;
+
+}
+
+.about1 h1 {
+    color: yellowgreen;
+}
+
+.about1 p {
+    color: yellow
+}
+
+.about1 b {
+    color: whitesmoke
+}
+
+.contact {
+    background-image: url('https://img.freepik.com/premium-photo/clay-dishes-plate-top-view-free-space-your-text_187166-14624.jpg?size=626&ext=jpg');
+    position: absolute;
+    margin: 1px 1px;
+    margin-bottom: 20px;
+    width: 1900px;
+}
+
+.contact p {
+    color: yellow;
+}
+
+.contact h1 {
+    color: yellowgreen;
+}
+
+.contact b {
+    color: whitesmoke;
+}
+
+#home{
+    display: flex;
+    justify-content: center;
+}
